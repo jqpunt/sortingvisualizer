@@ -42,7 +42,7 @@ dependencies {
 
 
 application {
-    mainClass.set("com.justin.sortingvisualizer.app.MainAppKt")
+    mainClass.set("nl.justin.sortingvisualizer.app.MainAppKt")
 }
 
 kotlin {
